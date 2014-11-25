@@ -1,0 +1,37 @@
+{
+  "name": "htmljs",
+  "filename": "html.engine.min.js",
+  "version": "1.0.0",
+  "description": "HtmlJs is the pure JavaScript framework, full-fledged for Single Page Application including unobstrusive MVVM, validation, routing, dynamic script loading, ajax, array utils",
+  "homepage": "http://nhanfu.github.io/htmljs/api/index.html",
+  "keywords": [
+    "MVVM",
+    "routing",
+    "dependency injection",
+    "javascript",
+    "ajax"
+  ],
+  "maintainers": [
+    {
+      "name": "Nhan Nguyen",
+      "email": "nhan.htmljs@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/nhanfu/htmljs.git"
+    }
+  ],
+  "npmName": "htmljs",
+  "npmFileMap": [
+    {
+      "basePath": "/",
+      "files": [
+        "html.engine.js",
+        "html.engine.min.js"
+      ]
+    }
+  ],
+  "namespace": "html"
+}
